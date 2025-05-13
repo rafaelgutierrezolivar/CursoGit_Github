@@ -50,9 +50,10 @@
     /* margin, padding (excepto -left, NO funcionan con d-inline (ver margin en menu.css "sticky02") */ 
   }
   p {
+    font-size: 1.1em;
     text-align: justify;
     line-height: 1.5rem;
-     margin-left: 1rem;
+    margin-left: 1rem;
   }
   .codigo {
     max-width: 1200px;
